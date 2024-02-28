@@ -1,1 +1,1 @@
-# Prodigy_ML
+# Prodigy_ML_Intern
